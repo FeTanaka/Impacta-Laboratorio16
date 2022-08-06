@@ -1,4 +1,4 @@
-package br.com.impacta.laboratrio16
+package br.com.impacta.laboratrio16.ui.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
